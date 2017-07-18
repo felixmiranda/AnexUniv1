@@ -1,0 +1,66 @@
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Auth.Service.dll.config
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Auth.Service.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Common.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Model.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\NLog.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Persistence.DatabaseContext.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.DynamicFilters.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\LightInject.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Persistence.DatabaseContext.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Common.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Model.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\NLog.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\LightInject.pdb
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\bin\Debug\LightInject.xml
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\obj\Debug\Auth.Service.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\obj\Debug\Auth.Service.dll
+D:\Mis Cursos\ASP.NET MVC + VueJs\02. Levantando el proyecto\AnexUniv\02-Service\Auth.Service\obj\Debug\Auth.Service.pdb
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Auth.Service.dll.config
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Auth.Service.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Auth.Service.pdb
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Common.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.SqlServer.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Model.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\NLog.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Persistence.DatabaseContext.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.DynamicFilters.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\LightInject.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Persistence.DatabaseContext.pdb
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Common.pdb
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Model.pdb
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\EntityFramework.SqlServer.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\NLog.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\LightInject.pdb
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\bin\Debug\LightInject.xml
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\obj\Debug\Auth.Service.csprojResolveAssemblyReference.cache
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\obj\Debug\Auth.Service.dll
+F:\Desarrollo\AnexUniv\02-Service\Auth.Service\obj\Debug\Auth.Service.pdb
